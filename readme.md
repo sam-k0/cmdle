@@ -2,6 +2,8 @@
 
 wordle in your terminal.
 
+![screenshot](image.png)
+
 ## Features
 - Daily word challenge.
 - Color-coded feedback for guesses.
